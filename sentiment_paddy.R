@@ -1,4 +1,5 @@
 # Code to perform opinion mining for paddy crops
+# Author: Akhil Sakhardande
 
 library(tm)
 #install.packages("qdap")

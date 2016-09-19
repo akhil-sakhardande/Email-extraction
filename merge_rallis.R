@@ -1,4 +1,5 @@
-# Code to merge the sentiment file with generated topics 
+# Code to merge the sentiment file with generated topics
+# Author: Akhil Sakhardande 
 
 getwd()
 setwd("/home/asakhardhande19/rallis_files/")
